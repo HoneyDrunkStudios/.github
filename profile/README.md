@@ -6,7 +6,7 @@ HoneyDrunk Studios builds the Grid: a contract-first ecosystem of .NET Nodes, ag
 
 ## The Grid
 
-The Grid is organized around clear Node boundaries, durable contracts, observability, and practical automation. Work flows from intent to architecture, issue packets, implementation, review, and release.
+The Grid is organized around clear Node boundaries, durable contracts, observability, and practical automation. Work flows from intent to architecture, work items, implementation, review, and release.
 
 Core principles:
 
