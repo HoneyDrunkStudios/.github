@@ -17,4 +17,4 @@ Core principles:
 - Semantic versioning, changelogs, and reviewable history
 - Humans and agents collaborate through explicit boundaries
 
-Most public-facing details live in the relevant repositories. Internal architecture decisions live in `HoneyDrunk.Studio`.
+Most public-facing details live in the relevant repositories. Internal architecture decisions live in `HoneyDrunk.Documentation`.
